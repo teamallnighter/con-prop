@@ -14,11 +14,8 @@ menu:
 ---
 ## Hours of Operation
 
-Belkirk College of Engineering is available:
-
-* **Monday-Friday**, 8:00am to 6:00pm EST
-* **Saturdays**, 8:00am to 5:00pm EST
-* **Sundays**, 9:00am to 12:00pm EST
+* **Monday-Friday**, 8:30am to 4:30pm MST
+* **Weekends and Holidays**, Closed
 
 ## Contact Information
 
