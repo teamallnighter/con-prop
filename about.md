@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Services
 date: '2017-11-01T03:00:00.000+00:00'
 banner_image: "/uploads/2020/12/26/download.jpg"
 heading: Connelly & Company Property Management
@@ -21,12 +21,20 @@ services:
   description: We provide monthly site visits, in-depth manager reports, and proactive
     quoting to assist our boards in getting the right information, great prices, and
     high-quality trades work.
+- heading: Major Bid List
+  description: All of our buildings will be included in our major bid list for winter
+    and spring
+  icon: ''
 - heading: Banquet Room
   icon: ''
   description: Our properties with banquet rooms are very popular with residents.  divide
     These banquet rooms are often used to entertain and have functions, especially
     around the holidays. We assist with books, fee collection, cleaning, maintenance,
     and upgrades.
+- heading: 24/7 Emergency's
+  description: All of our buildings are included in our 24/7 emergency service. Just
+    dial (403) 228 1557.
+  icon: ''
 menu:
   footer:
     identifier: _about
