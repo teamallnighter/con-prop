@@ -12,5 +12,8 @@ hero_button:
   href: "/about"
 show_news: false
 show_staff: false
+menu:
+  navigation:
+    weight: 5
 
 ---
