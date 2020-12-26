@@ -5,14 +5,17 @@ banner_image: "/uploads/2020/12/26/download.jpg"
 heading: Connelly & Company Property Management
 sub_heading: Over 40 years servicing Calgary Condos
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: We give our clients the best advice based on the experience we’ve gained
+  from our 40 years in business as one of Calgary’s best condominium management companies.
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 hero_button:
   text: Get A Quote
   href: https://portal.connellymanagement.com/proposal-request/
 services:
+- heading: Financial Reporting
+  description: Monthly in depth financial reporting
+  icon: ''
 - heading: Maintenance
   icon: ''
   description: We provide monthly site visits, in-depth manager reports, and proactive
