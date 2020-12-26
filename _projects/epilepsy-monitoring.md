@@ -1,39 +1,25 @@
 ---
-title: Portable EEG Montoring Device
-date: 2016-04-20 00:00:00 +0000
+title: Bonavista Estates 2
+date: '2016-04-20T00:00:00.000+00:00'
 categories: []
 description: A portable device for epileptic patients.
-banner_image: "/uploads/2018/02/17/neurons.jpg"
-sub_heading: A post-modern taking on Engineering in the Digital World
+banner_image: "/uploads/2020/12/26/img_0704-t.jpg"
+sub_heading: A low rise community in SW Calgary
 tags:
-- engineering
-- research
-slug: ''
+- Low Rise
+- Multi Building
+slug: bv2
+
 ---
+## About BV2
 
-## Overview
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia 
 
-Epilepsy is a brain disorder that affects millions of North Americans. Characterized by abnormal neuronal signaling, symptoms of epilepsy are change in emotion, change in behavior, loss of consciousness, muscle spasms and convulsions.  
+Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaqu
 
-Epileptic episodes are very hard to predict, and virtually impossible to accurately record outside of a clinical environment. This project aims to provide a portable device that can be used to measure EEG (electroencephalography) outside of the clinical environment.
+## Amenities
 
-## Design
-The portable EEG montoring device (PEMD) is a combination platform of a head-mounted recording system and a portable terminal to be installed on any device running the Android operating system.
-
-The EEG is monitored and recorded using a series of electrodes built into the head-mounted system. The recordings are processed by a microprocessor from analog to digital format, and then sent to the portable terminal via bluetooth.
-
-## Practical Applications
-- Ambulatory Care
-- Automated response for solitary patients
-- Long-term data collection and analysis
-
-## Team
-
-### Staff
-- [Kellie Brewer](/belkirk-jekyll-demo/about/kellie-brewer/)
-- [Mary Anne Macswain](/belkirk-jekyll-demo/about/mary-ann-macswain/)
-
-### Students
-- Andrew Convington
-- Mark Bradbury
-- Ashley O'Brien
+* excepturi sint occaecati
+* recusandae. Itaqu
+* non provident
+* dolores et quas 
