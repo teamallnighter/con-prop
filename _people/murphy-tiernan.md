@@ -1,18 +1,14 @@
 ---
-title: Murphy Tiernan
-date: 2017-11-14 10:47:11 +0000
+title: Marty Connelly
+date: '2017-11-14T10:47:11.000+00:00'
 role:
 - advisor
 - staff
-thumbnail: "/uploads/2017/11/14/andrew-robles-300868.jpg"
-sub_heading: Professor
-email: murphy@belkirkcollege.com
+thumbnail: "/uploads/2020/12/26/1531855111343.jpg"
+sub_heading: Property Manager | Office Manager
+email: marty@connellymanagement.com
 linkedin: ''
-layout: 'person'
+layout: person
+
 ---
-
-Doctor Murphy Tiernan joined Belkirk in 2015 as a Professor.
-
-He received his Ph.D in Civil Engineering from Stanford in 2003, and also holds a master's degree in Mechanical Engineering.
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repella
