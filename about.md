@@ -46,8 +46,6 @@ menu:
 ---
 ## Our Story
 
-![](https://www.connellymanagement.com/wp-content/uploads/2016/07/divide.png "divide" =30x16)
-
 Connelly & Company Management LTD provides property management services in Calgary, Alberta. The company was formed in October 1980 as a family company, and remains a family company to this day.
 
 Al and Colleen started from the humble beginnings of owning a single building. Each evening, the two would go to their building to turn on garden hoses to water new sod. Slowly but surely, the company grew into the reliable and condominium management company it is today.
