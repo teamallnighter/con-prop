@@ -1,17 +1,17 @@
 ---
-title: Charlize Babatunde
-date: 2017-11-14 10:54:31 +0000
+title: Brent Hopkins
+date: '2017-11-14T10:54:31.000+00:00'
 role:
 - staff
-thumbnail: "/uploads/2017/11/14/william-stitt-162611.jpg"
-sub_heading: Administration
-email: ''
+thumbnail: "/uploads/2020/12/26/1589409.jpg"
+sub_heading: Property Managerty
+email: brent@connellymanagement.com
 linkedin: ''
-layout: 'person'
+layout: person
+
 ---
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint
 
-Charlize Babatunde joined Belkirk in 2015 as Head of Administration.
+ occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporib
 
-Charlize graduated with a master's degree in Industrial and Labor Relations and master's degree in Business Administration from Cornell in 2008, and worked with various non-profits before joining Belkirk..
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+us autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repella
