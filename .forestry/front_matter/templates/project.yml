@@ -4,7 +4,8 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: Title
+  label: Building Name
+  description: Enter the buildings name
 - name: sub_heading
   label: Sub Heading
   type: text
