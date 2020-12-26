@@ -16,6 +16,7 @@ menu:
   navigation:
     identifier: _projects
     weight: 3
+    title: Portfolio
   footer:
     identifier: _projects
     url: "/projects/"
