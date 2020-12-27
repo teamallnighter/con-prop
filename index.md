@@ -13,7 +13,7 @@ hero_button:
   text: ''
   href: ''
 show_news: false
-show_staff: false
+show_staff: true
 menu:
   navigation:
     weight: 1
