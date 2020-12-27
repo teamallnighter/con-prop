@@ -66,5 +66,3 @@ fields:
   type: text
   hidden: true
   default: post
-pages:
-- _posts/falconridge-estates.md

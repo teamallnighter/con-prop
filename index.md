@@ -10,8 +10,8 @@ textline: 'Connelly & Company Property Management
 
 '
 hero_button:
-  text: Learn more
-  href: "/about"
+  text: ''
+  href: ''
 show_news: false
 show_staff: false
 menu:
