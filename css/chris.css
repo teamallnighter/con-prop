@@ -4,7 +4,8 @@
     align-items: center;
     justify-content: center;
 
-    background-color:#1b1b1b41;
+    background-color:#ffffff6e;
+    padding: 25px;
 }
 
 .number-of-units{
@@ -24,3 +25,9 @@
 .price{
     font-size: 1.5rem;
 }
+
+h1, h2, h3{
+    color: black;
+}
+
+
