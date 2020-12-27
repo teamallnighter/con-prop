@@ -31,7 +31,11 @@ layout: default
         </ul>
         {% endif %}
       </div>
-
+      <div>
+        {% if page.buildingname %}
+        <h1>{{ page.buildingname }}</h1>
+        {% endif %}
+      </div>
       {{ content }}
 
       {% if page.related_posts.size > 0 %}
