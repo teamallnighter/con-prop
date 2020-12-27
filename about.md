@@ -7,11 +7,8 @@ sub_heading: Over 40 years servicing Calgary Condos
 layout: landing-page
 textline: We give our clients the best advice based on the experience we’ve gained
   from our 40 years in business as one of Calgary’s best condominium management companies.
-publish_date: '2017-12-01T04:00:00.000+00:00'
-show_staff: true
-hero_button:
-  text: Get A Quote
-  href: https://portal.connellymanagement.com/proposal-request/
+publish_date: '2020-12-25T04:00:00.000+00:00'
+show_staff: false
 services:
 - heading: Financial Reporting
   description: Monthly in depth financial reporting
