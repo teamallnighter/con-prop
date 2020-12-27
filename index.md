@@ -31,4 +31,5 @@ We employ 8 managers and 8 support staff, and are known for our exceptional serv
 
 As our company moves forward, we plan to bring condo management into the 21st century. Through intuitive and easy to understand web portals, and through new and exciting products, we offer the best service for our clients.
 
-    <button>Home</button>
+[Home Page](https://connellymanagement.com)
+[Customer Portal](https://portal.connellymanagement.com)
