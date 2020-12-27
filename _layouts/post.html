@@ -4,9 +4,7 @@ layout: default
 {% comment %}
 	This layout is used by the documents in the _posts/ collection
 {% endcomment %}
-
 {% include breadcrumbs.html class="content-narrow" %}
-
 <div class="container pure-g">
   <div class="pure-u-1">
     <div class="content content-narrow">
@@ -31,10 +29,31 @@ layout: default
         </ul>
         {% endif %}
       </div>
-      <div>
+      <div class="building-info-main">
         {% if page.buildingname %}
         <h1>{{ page.buildingname }}</h1>
         {% endif %}
+        {% if page.building_address %}
+        <h2>{{ page.building_address }}</h2>
+        {% endif %}
+        {% if page.condo_corp %}
+        <h3>{{ page.condo_corp }}</h3>
+        {% endif %}
+      </div>
+      <div class="number-of-units">
+        {% if page.number_of_units %}
+        <p class="units">{{ page.number_of_units }} units</p>
+        {% endif %}
+      </div>
+      <div class="pricing">
+        <span>
+          {% if page.managment_level %}
+          <p>Our price for {{ page.managment_level }} management is</p>
+          {% endif %}
+          {% if page.price %}
+          <p class="price">{{ page.price }}</p>
+          {% endif %}
+        </span>
       </div>
       {{ content }}
 
