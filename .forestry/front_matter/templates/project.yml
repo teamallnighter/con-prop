@@ -27,6 +27,10 @@ fields:
     min: 
     max: 
     step: 
+- name: amenities_
+  type: tag_list
+  default: []
+  label: 'Amenities '
 - name: style_of_building
   type: select
   default: []
