@@ -41,3 +41,22 @@ h1, h2, h3, .units, .pricing-text{
 #banner{
     height: 100vh;
 }
+
+.btn1{
+    background-color: #FE9800;
+    color: black;
+    font-size: 1rem;
+}
+.btn1:hover{
+    background-color: black;
+    color:#FE9800;
+}
+
+.btn2{
+    background-color: blue;
+    color: white;
+}
+.btn2:hover{
+    color: blue;
+    background-color: white;
+}
