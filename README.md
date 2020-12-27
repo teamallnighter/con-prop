@@ -5,3 +5,4 @@
 ## Features
 
 *Forestry.io cms
+*Disqus Comments
