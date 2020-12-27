@@ -1,6 +1,7 @@
 ---
 label: post
 hide_body: false
+display_field: buildingname
 fields:
 - name: buildingname
   label: Building Name
