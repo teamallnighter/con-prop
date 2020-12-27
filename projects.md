@@ -11,7 +11,7 @@ textline: At Connelly & Company we take a forward thinking and proactive outlook
   and high-quality trades work. We have serviced condominiums in Calgary and beyond
   for nearly 40 years. With our unmatched experience comes the capability to use modern
   technology. We feel our approach will be a great match for your building.
-banner_image: "/uploads/2020/12/26/riley-mcneal-izyke_nnx2a-unsplash.jpg"
+banner_image: "/uploads/2020/12/27/patrick-mcvey-rjc29ypmrk-unsplash.jpg"
 menu:
   navigation:
     identifier: _projects
