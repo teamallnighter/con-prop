@@ -9,15 +9,15 @@
 							<h1>{{ page.buildingname }}</h1>
 							{% endif %}
 							{% if page.building_address %}
-							<h2>{{ page.building_address }}</h2>
+							<h3>{{ page.building_address }}</h3>
 							{% endif %}
 							{% if page.condo_corp %}
-							<h3>{{ page.condo_corp }}</h3>
+							<h2>Condo Corp: {{ page.condo_corp }}</h2>
 							{% endif %}
 						</div>
 						<div class="number-of-units">
 							{% if page.number_of_units %}
-							<p class="units">{{ page.number_of_units }} units</p>
+							<h2 class="units">{{ page.number_of_units }} units</h2>
 							{% endif %}
 						</div>
 						<div class="pricing">
