@@ -42,8 +42,8 @@ h1, h2, h3, .units, .pricing-text{
     height: 100vh;
 }
 
-.btn1{
-    .btn1 {
+
+.btn1 {
         background: #3D94F6;
         background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
         background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
