@@ -6,18 +6,9 @@ heading: Connelly & Company Property Management
 partners: []
 services: []
 sub_heading: 40+ Years servicing Calgary Condos
-textline: 'Connelly & Company Property Management
-
-'
-hero_button:
-  text: ''
-  href: ''
+textline: 'Connelly & Company Property Management'
 show_news: false
 show_staff: true
-menu:
-  navigation:
-    weight: 1
-
 ---
 ## Our Story
 
