@@ -7,27 +7,15 @@
     background-color:#ffffff6e;
     padding: 25px;
     min-width: 50vw;
-}
-
-.number-of-units{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-.pricing{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;  
+    left: 0;
+    height: 100vh;
 }
 
 .price{
     font-size: 1.5rem;
 }
 
-h1, h2, h3{
+h1, h2, h3, .units, .pricing-text, .price{
     color: black !important;
 }
 
