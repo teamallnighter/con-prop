@@ -30,7 +30,12 @@ layout: proposal
         {% endif %}
       </div>
       {{ content }}
-
+      <section>
+        <div class="button-wrap">
+          <button>Our Portfolio</button>
+          <button>Our Staff</button>
+        </div>
+      </section>
       {% if page.related_posts.size > 0 %}
 			<hr>
         <h2> Related Posts </h2>
@@ -62,3 +67,4 @@ layout: proposal
     </div>
   </div>
 </div>
+{% include disqus.html %}
