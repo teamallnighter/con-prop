@@ -12,11 +12,11 @@ fields:
   name: building_address
   default: ''
   label: Building Address
-- name: price
+- name: condo_corp
   type: text
   config:
     required: false
-  label: price
+  label: condo corp
 - name: number_of_units
   type: number
   label: number of units
@@ -27,6 +27,26 @@ fields:
     min: 
     max: 
     step: 
+- name: management_level
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Full Management
+    - Partial Management
+    - Custom Management
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: management level
+- name: price
+  type: text
+  config:
+    required: false
+  label: price
 - name: date
   label: Publish Date
   type: datetime
@@ -46,5 +66,3 @@ fields:
   type: text
   hidden: true
   default: post
-pages:
-- _posts/flcndge.md
