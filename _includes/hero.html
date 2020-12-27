@@ -7,6 +7,32 @@
 					{% if page.sub_heading and page.sub_heading != "" %}
 						<h2>{{ page.sub_heading }}</h2>
 					{% endif %}
+					<div class="building-info-main">
+						{% if page.buildingname %}
+						<h1>{{ page.buildingname }}</h1>
+						{% endif %}
+						{% if page.building_address %}
+						<h2>{{ page.building_address }}</h2>
+						{% endif %}
+						{% if page.condo_corp %}
+						<h3>{{ page.condo_corp }}</h3>
+						{% endif %}
+					  </div>
+					  <div class="number-of-units">
+						{% if page.number_of_units %}
+						<p class="units">{{ page.number_of_units }} units</p>
+						{% endif %}
+					  </div>
+					  <div class="pricing">
+						<span>
+						  {% if page.management_level %}
+						  <p>Our price for {{ page.management_level }} management is</p>
+						  {% endif %}
+						  {% if page.price %}
+						  <p class="price">{{ page.price }}</p>
+						  {% endif %}
+						</span>
+					  </div>
 					{% if page.hero_button %}
 					<div>
 						<a href="{{ page.hero_button.href | absolute_url }}" class="pure-button button-success button-xlarge" title="{{ page.hero_button.text }}">
