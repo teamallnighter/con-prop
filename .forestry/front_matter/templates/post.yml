@@ -11,6 +11,21 @@ fields:
   name: building_address
   default: ''
   label: Building Address
+- name: price
+  type: text
+  config:
+    required: false
+  label: price
+- name: number_of_units
+  type: number
+  label: number of units
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 - name: date
   label: Publish Date
   type: datetime
@@ -25,14 +40,6 @@ fields:
   name: banner_image
   label: Banner Image
   description: Ideal dimensions 2500px by 1200px
-- type: list
-  name: related_posts
-  label: Related Posts
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: posts
 - name: layout
   label: Layout
   type: text
