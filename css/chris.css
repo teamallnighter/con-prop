@@ -4,14 +4,14 @@
     align-items: center;
     justify-content: center;
 
-    background-color:#ffffff6e;
+    background-color:#ffffffab;
     padding: 25px;
     min-width: 50vw;
     left: 0;
     height: 100vh;
 }
 
-.price{
+.price, .units, .pricing-text{
     font-size: 1.5rem;
 }
 
