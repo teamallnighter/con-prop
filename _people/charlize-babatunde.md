@@ -3,7 +3,7 @@ title: Brent Hopkins
 date: '2017-11-14T10:54:31.000+00:00'
 role:
 - staff
-thumbnail: "/uploads/2020/12/26/1589409.jpg"
+thumbnail: "/uploads/2020/12/27/35160545_140085993530355_746851918936014848_n.jpg"
 sub_heading: Property Managerty
 email: brent@connellymanagement.com
 linkedin: ''
