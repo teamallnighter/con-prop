@@ -60,9 +60,9 @@ h1, h2, h3, .units, .pricing-text{
         width: 200px;
         font-size: 27px;
         padding: 6px;
-        -webkit-box-shadow: 1px 1px 20px 0 #000000;
-        -moz-box-shadow: 1px 1px 20px 0 #000000;
-        box-shadow: 1px 1px 20px 0 #000000;
+        -webkit-box-shadow: 1px 1px 4px 0 #000000;
+        -moz-box-shadow: 1px 1px 4px 0 #000000;
+        box-shadow: 1px 1px 4px 0 #000000;
         border: solid #337FED 1px;
         text-decoration: none;
         display: inline-block;
@@ -78,12 +78,3 @@ h1, h2, h3, .units, .pricing-text{
         border-radius: 20px;
         text-decoration: none;
      }
-
-.btn2{
-    background-color: blue;
-    color: white;
-}
-.btn2:hover{
-    color: blue;
-    background-color: white;
-}
