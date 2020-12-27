@@ -6,6 +6,7 @@
 
     background-color:#ffffff6e;
     padding: 25px;
+    min-width: 50vw;
 }
 
 .number-of-units{
@@ -27,7 +28,10 @@
 }
 
 h1, h2, h3{
-    color: black;
+    color: black !important;
 }
 
 
+#banner{
+    height: 100vh;
+}
