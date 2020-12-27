@@ -16,7 +16,7 @@ show_news: false
 show_staff: false
 menu:
   navigation:
-    weight: 5
+    weight: 1
 
 ---
 ## Our Story
