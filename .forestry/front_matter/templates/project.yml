@@ -62,6 +62,7 @@ fields:
   default: ''
 pages:
 - _projects/bonavista-estates-2.md
+- _projects/country-estates-on-the-cove.md
 - _projects/grandview.md
 - _projects/lighthouse-landing.md
 - _projects/mansions-at-prominence.md
