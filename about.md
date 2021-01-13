@@ -34,7 +34,7 @@ services:
 - heading: 24/7 Emergency's
   description: All of our buildings are included in our 24/7 emergency service. Just
     dial (403) 228 1557.
-  icon: ''
+  icon: "/uploads/2021/01/13/575934-200.png"
 menu:
   footer:
     identifier: _about
