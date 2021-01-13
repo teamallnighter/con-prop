@@ -15,7 +15,7 @@ services:
   icon: "/uploads/2021/01/13/meeting.png"
 - heading: Financial Reporting
   description: Monthly in depth financial reporting
-  icon: ''
+  icon: "/uploads/2021/01/13/262290-200.png"
 - heading: Maintenance
   icon: ''
   description: We provide monthly site visits, in-depth manager reports, and proactive
