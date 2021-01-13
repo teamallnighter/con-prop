@@ -24,7 +24,7 @@ services:
 - heading: Major Bid List
   description: All of our buildings will be included in our major bid list for winter
     and spring
-  icon: ''
+  icon: "/uploads/2021/01/13/1543482.svg"
 - heading: Banquet Room
   icon: ''
   description: Our properties with banquet rooms are very popular with residents.  divide
