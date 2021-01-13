@@ -17,7 +17,7 @@ services:
   description: Monthly in depth financial reporting
   icon: "/uploads/2021/01/13/262290-200.png"
 - heading: Maintenance
-  icon: ''
+  icon: "/uploads/2021/01/13/maintenance-512.png"
   description: We provide monthly site visits, in-depth manager reports, and proactive
     quoting to assist our boards in getting the right information, great prices, and
     high-quality trades work.
