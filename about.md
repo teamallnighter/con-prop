@@ -26,7 +26,7 @@ services:
     and spring
   icon: "/uploads/2021/01/13/1543482.svg"
 - heading: Banquet Room
-  icon: ''
+  icon: "/uploads/2021/01/13/1940918.png"
   description: Our properties with banquet rooms are very popular with residents.  divide
     These banquet rooms are often used to entertain and have functions, especially
     around the holidays. We assist with books, fee collection, cleaning, maintenance,
