@@ -10,6 +10,9 @@ textline: We give our clients the best advice based on the experience we’ve ga
 publish_date: '2020-12-25T04:00:00.000+00:00'
 show_staff: false
 services:
+- heading: Board Meetings
+  description: Monthly, quarterly and bi nnnual board meeting attendance.
+  icon: "/uploads/2021/01/13/meeting.png"
 - heading: Financial Reporting
   description: Monthly in depth financial reporting
   icon: ''
