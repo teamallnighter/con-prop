@@ -17,7 +17,7 @@ title: Savanna Bazaar Condo Corporation
 #### **Full Management**
 
 Assist with Board Duties (Section 37 – The Act)  
-Attendance at Board Meetings.  
+Attendance at Board Meetings  
 Minute taking and distribution  
 Minute Book Maintenance  
 Day-to-Day Owner Correspondence  
