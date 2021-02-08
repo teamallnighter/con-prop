@@ -1,12 +1,12 @@
 ---
-number_of_units: 1
+number_of_units: 44
 management_level: Full Management
 layout: post
-buildingname: Template
-building_address: 'address '
+buildingname: Savanna Bazaar Condo Corporation
+building_address: 88th Avenue & Savanna Drive NE, Calgary, AB
 condo_corp: "1234"
-price: "1120"
-date: 2021-02-04 00:00:00 -0700
+price: "2500"
+date: 2021-02-09 00:00:00 -0700
 tags: []
 banner_image: "/uploads/2021/02/05/banner-small-banner-smallerjpeg.jpeg"
 title: Savanna Bazaar Condo Corporation
