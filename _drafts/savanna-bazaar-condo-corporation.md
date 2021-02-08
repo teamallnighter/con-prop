@@ -8,7 +8,7 @@ condo_corp: "1234"
 price: "2500"
 date: 2021-02-09 00:00:00 -0700
 tags: []
-banner_image: "/uploads/2021/02/05/banner-small-banner-smallerjpeg.jpeg"
+banner_image: "/uploads/2021/02/05/banner-small.jpeg"
 title: Savanna Bazaar Condo Corporation
 
 ---
