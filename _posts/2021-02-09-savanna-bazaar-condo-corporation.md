@@ -6,7 +6,7 @@ buildingname: Savanna Bazaar Condo Corporation
 building_address: 88th Avenue & Savanna Drive NE, Calgary, AB
 condo_corp: "1234"
 price: "$2500"
-date: 2021-02-09 00:00:00 -0700
+date: 2021-02-08 00:00:00 -0700
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
 title: Savanna Bazaar Condo Corporation
