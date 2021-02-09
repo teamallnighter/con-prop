@@ -1,10 +1,10 @@
 ---
-number_of_units: 1
+number_of_units: 32
 management_level: Full Management
 layout: post
-buildingname: Template
+buildingname: Manhattan on 17th
 building_address: 'address '
-condo_corp: "1234"
+condo_corp: 881 0536
 price: "1120"
 date: 2021-02-04 00:00:00 -0700
 tags: []
