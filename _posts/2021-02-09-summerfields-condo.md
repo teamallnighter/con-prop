@@ -6,7 +6,7 @@ buildingname: Summerfields Condo
 building_address: 405 32 Ave NW
 condo_corp: ''
 price: "1300"
-date: 2021-02-08 00:00:00 -0700
+date: 2021-02-09 12:00:00 -0700
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
 title: Summerfields Condo
