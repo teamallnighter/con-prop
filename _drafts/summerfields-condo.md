@@ -1,12 +1,12 @@
 ---
-number_of_units: 1
+number_of_units: 51
 management_level: Full Management
 layout: post
-buildingname: Template
-building_address: 'address '
-condo_corp: "1234"
-price: "1120"
-date: 2021-02-04 00:00:00 -0700
+buildingname: Summerfields Condo
+building_address: 405 32 Ave NW
+condo_corp: ''
+price: "1300"
+date: 2021-02-09 00:00:00 -0700
 tags: []
 banner_image: ''
 title: Summerfields Condo
