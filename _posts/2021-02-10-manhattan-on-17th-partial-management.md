@@ -14,7 +14,7 @@ title: 'Manhattan on 17th-Partial Management '
 ---
 ### **Duties**
 
-#### PARTIAL MANAGEMENT AGREEMENT - $600/month (fixed)
+#### PARTIAL MANAGEMENT
 
 Collection of fees
 
