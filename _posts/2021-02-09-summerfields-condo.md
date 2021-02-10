@@ -1,6 +1,6 @@
 ---
 number_of_units: 51
-management_level: Full Management
+management_level: Full
 layout: post
 buildingname: Summerfields Condo
 building_address: 405 32 Ave NW
