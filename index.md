@@ -6,9 +6,10 @@ heading: Connelly & Company Property Management
 partners: []
 services: []
 sub_heading: 40+ Years servicing Calgary Condos
-textline: 'Connelly & Company Property Management'
+textline: Connelly & Company Property Management
 show_news: false
 show_staff: true
+
 ---
 ## Our Story
 
@@ -18,7 +19,7 @@ Al and Colleen started from the humble beginnings of owning a single building. E
 
 Today, Connelly & Company manages around 130 buildings of all types and sizes. We have managed any building imaginable, from 4-unit townhomes to 200-unit high rise towers. We have managed property throughout Alberta, including Calgary, Strathmore, High River, and Cochrane. We have even managed property in Maui, Hawaii.
 
-We employ 8 managers and 8 support staff, and are known for our exceptional service. With nearly 40 years of experience under our belt, Connelly & Company is proud to manage some of Calgary’s premier condominiums.
+We employ 8 managers and 9 support staff, and are known for our exceptional service. With nearly 40 years of experience under our belt, Connelly & Company is proud to manage some of Calgary’s premier condominiums.
 
 As our company moves forward, we plan to bring condo management into the 21st century. Through intuitive and easy to understand web portals, and through new and exciting products, we offer the best service for our clients.
 
