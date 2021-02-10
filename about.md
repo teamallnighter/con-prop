@@ -32,8 +32,8 @@ services:
     around the holidays. We assist with books, fee collection, cleaning, maintenance,
     and upgrades.
 - heading: 24/7 Emergency's
-  description: All of our buildings are included in our 24/7 emergency service. Just
-    dial (403) 228 1557.
+  description: All of our buildings are included in our 24/7 emergency service. Call
+    (403) 228-1557.
   icon: "/uploads/2021/01/13/575934-200.png"
 menu:
   footer:
