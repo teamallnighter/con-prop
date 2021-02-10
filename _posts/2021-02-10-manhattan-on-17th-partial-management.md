@@ -1,6 +1,6 @@
 ---
 number_of_units: 32
-management_level: Partial Management
+management_level: Partial
 layout: post
 buildingname: Manhattan on 17th
 building_address: 1919 17th Ave SW, Calgary, T2T 0E9
