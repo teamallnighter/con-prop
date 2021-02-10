@@ -33,9 +33,8 @@ fields:
   config:
     required: false
     options:
-    - Full Management
-    - Partial Management
-    - Custom Management
+    - Partial
+    - Full
     source:
       type: simple
       section: 

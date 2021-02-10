@@ -16,20 +16,33 @@ title: 'Manhattan on 17th-Partial Management '
 
 #### PARTIAL MANAGEMENT AGREEMENT - $600/month (fixed)
 
-* Collection of fees
-* Connelly will open two separate bank accounts, one for operating another for reserve funds. They will not commingle these funds as per the Alberta Condominium Property Act
-* Follow up on fees in arrears and administer caveats/foreclosures upon direction of the Board of Directors
-* Invoice payments will be made twice a month on a regular basis. Payments will be made upon approval of invoice by a Director of the Board
-* The Board may opt to have signing authority on cheques or not
-* Banking and investment of Reserves upon direction of the Board
-* Connelly will provide monthly financial statements to the Board
-* Arrange Yearly Audit through the Corporation’s Auditor and preparation of Annual General Meeting
-* Assist in Budgeting Process. The Board will obtain quotes and other required input for budget purposes, however Connelly will meet with the Board or a committee of the Board to review the budget and provide an independent assessment of the appropriateness of the Budget’s assumptions, the reasonableness of the amounts provided and that the Budget meets the legal requirements set out in Condominium Legislation and Bylaws
-* Attend Annual General Meeting
-* Connelly would be available to supply telephone support to the Board on any issue
-* Connelly to provide access to 24-hour emergency call line
-* Connelly will secure insurance coverage for the Corporation under Connelly’s master quoting process.
-* Connelly will file legal documents i.e. Form 9, caveats, withdrawal of caveats, Small Claims if necessary and administer insurance needs as required
+Collection of fees
+
+Connelly will open two separate bank accounts, one for operating another for reserve funds. They will not commingle these funds as per the Alberta Condominium Property Act
+
+Follow up on fees in arrears and administer caveats/foreclosures upon direction of the Board of Directors
+
+Invoice payments will be made twice a month on a regular basis. Payments will be made upon approval of invoice by a Director of the Board
+
+The Board may opt to have signing authority on cheques or not
+
+Banking and investment of Reserves upon direction of the Board
+
+Connelly will provide monthly financial statements to the Board
+
+Arrange Yearly Audit through the Corporation’s Auditor and preparation of Annual General Meeting
+
+Assist in Budgeting Process. The Board will obtain quotes and other required input for budget purposes, however Connelly will meet with the Board or a committee of the Board to review the budget and provide an independent assessment of the appropriateness of the Budget’s assumptions, the reasonableness of the amounts provided and that the Budget meets the legal requirements set out in Condominium Legislation and Bylaws
+
+Attend Annual General Meeting
+
+Connelly would be available to supply telephone support to the Board on any issue
+
+Connelly to provide access to 24-hour emergency call line
+
+Connelly will secure insurance coverage for the Corporation under Connelly’s master quoting process.
+
+Connelly will file legal documents i.e. Form 9, caveats, withdrawal of caveats, Small Claims if necessary and administer insurance needs as required
 
 ***
 
