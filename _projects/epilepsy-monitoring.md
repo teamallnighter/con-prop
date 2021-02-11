@@ -9,6 +9,7 @@ tags:
 - Low Rise
 - Multi Building
 slug: bv2
+published: false
 
 ---
 ## About BV2
@@ -22,4 +23,4 @@ Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saep
 * excepturi sint occaecati
 * recusandae. Itaqu
 * non provident
-* dolores et quas 
+* dolores et quas
