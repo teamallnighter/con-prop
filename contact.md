@@ -5,7 +5,7 @@ banner_image: "/uploads/2020/12/27/daven-froberg-pqqqbdwg6n4-unsplash.jpg"
 heading: 'Contact Us '
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
-sub_heading: 24/7 - 365
+sub_heading: ''
 menu:
   navigation:
     identifier: _contact
