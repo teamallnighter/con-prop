@@ -121,4 +121,4 @@ Issue Estoppel Certificates (a fee will be charged) per Section 44 – The Act
 
 #### **In conclusion:**
 
-Connelly & Company has forty years servicing Calgary’s condominiums. With that comes unmatched experience matched with modern technology we feel our approach will be a great match for your building.
+Connelly & Company has forty years servicing Calgary’s condominiums. With that comes unmatched experience matched with modern technology we feel our approach will be a great match for your building. 
