@@ -9,5 +9,6 @@ sub_heading: Business Manager
 email: marty@connellymanagement.com
 linkedin: ''
 layout: person
+published: false
 
 ---
