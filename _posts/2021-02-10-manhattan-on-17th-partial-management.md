@@ -14,7 +14,7 @@ title: 'Manhattan on 17th-Partial Management '
 ---
 ### **Duties**
 
-#### Partial Management
+#### **Partial Management**
 
 Collection of fees
 
