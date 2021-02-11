@@ -11,6 +11,7 @@ banner_image: "/uploads/2020/12/26/img_0704-t.jpg"
 title: Bonavista Estates 2
 sub_heading: A low rise community in SW Calgary
 slug: bonavista-estates-2
+published: false
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sit amet consectetur adipiscing. Arcu felis bibendum ut tristique. Facilisi nullam vehicula ipsum a arcu cursus vitae congue mauris. Imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor. Lacinia at quis risus sed vulputate odio ut enim. Placerat duis ultricies lacus sed. Sed ullamcorper morbi tincidunt ornare massa eget egestas purus viverra. Ac turpis egestas maecenas pharetra convallis posuere morbi. Sodales ut etiam sit amet nisl purus. Neque viverra justo nec ultrices dui sapien eget mi proin. Ipsum suspendisse ultrices gravida dictum fusce ut placerat. Diam phasellus vestibulum lorem sed. Neque convallis a cras semper. Urna neque viverra justo nec ultrices dui sapien. In cursus turpis massa tincidunt dui ut ornare lectus sit. Platea dictumst quisque sagittis purus. Sit amet nulla facilisi morbi tempus iaculis urna. Risus feugiat in ante metus dictum. Nisi porta lorem mollis aliquam ut porttitor leo.
