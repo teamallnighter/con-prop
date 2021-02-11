@@ -8,6 +8,7 @@ sub_heading: Property Managerty
 email: brent@connellymanagement.com
 linkedin: ''
 layout: person
+published: false
 
 ---
 At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint
