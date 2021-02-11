@@ -7,6 +7,7 @@ sub_heading: Property Manager
 thumbnail: "/uploads/2020/12/27/unnamed.jpg"
 email: bill@connellymanagement.com
 linkedin: ''
+published: false
 
 ---
 At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint
