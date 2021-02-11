@@ -6,7 +6,7 @@ buildingname: Manhattan on 17th
 building_address: 1919 17th Ave SW, Calgary, T2T 0E9
 condo_corp: 881 0536
 price: "$1000+GST"
-date: 2021-02-09 00:00:00 -0700
+date: 2021-02-11 00:00:00 -0700
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
 title: Manhattan on 17th
