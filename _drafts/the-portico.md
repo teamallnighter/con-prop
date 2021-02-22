@@ -1,11 +1,12 @@
 ---
-number_of_units: 1
+number_of_units: 110
 management_level: Full
 layout: post
-buildingname: Template
-building_address: 'address '
-condo_corp: "1234"
-price: "$1234+GST"
+buildingname: The Portico
+building_address: " 532 – 5 Ave NE, Calgary, T2E 0L2 and 716 – 5 St NE, Calgary AB,
+  T2E 3W8"
+condo_corp: '0511047'
+price: ''
 date: 2021-02-10 00:00:00 -0700
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
