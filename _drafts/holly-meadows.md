@@ -1,12 +1,12 @@
 ---
-number_of_units: 1
+number_of_units: 53
 management_level: Full
 layout: post
-buildingname: Template
-building_address: 'address '
-condo_corp: "1234"
-price: "$1234+GST"
-date: 2021-02-10 00:00:00 -0700
+buildingname: Holly Meadows
+building_address: 1011 Canterbury Dr SW
+condo_corp: "7710011"
+price: "$1200+GST"
+date: 2021-03-03 00:00:00 -0700
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
 title: Holly Meadows
