@@ -5,7 +5,7 @@ layout: post
 buildingname: Holly Meadows
 building_address: 1011 Canterbury Dr SW
 condo_corp: "7710011"
-price: "$1200+GST"
+price: "$1400+GST"
 date: 2021-03-03 00:00:00 -0700
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
