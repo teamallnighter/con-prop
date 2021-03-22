@@ -6,7 +6,7 @@ buildingname: Palace Oaks
 building_address: 2520 Palliser Drive SW, Calgary AB
 condo_corp: "7810236"
 price: "$3500+GST"
-date: 2021-03-19 00:00:00 -0600
+date: 2021-03-22 00:00:00 -0600
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
 title: Palace Oaks
