@@ -1,12 +1,12 @@
 ---
-number_of_units: 1
+number_of_units: 114
 management_level: Full
 layout: post
-buildingname: Template
-building_address: 'address '
-condo_corp: "1234"
-price: "$1234+GST"
-date: 2021-02-10T00:00:00.000-07:00
+buildingname: Ven Kensington
+building_address: 823 5 Ave NW, Calgary, AB T2N 0R5
+condo_corp: "1511755"
+price: "$3000+GST"
+date: 2021-03-26 00:00:00 -0600
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
 title: Ven Kensington
