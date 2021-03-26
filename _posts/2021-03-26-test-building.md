@@ -6,7 +6,7 @@ buildingname: Test Building
 building_address: 101 building address lane
 condo_corp: "345678"
 price: "2500"
-date: 
+date: 2021-03-26 00:00:00 -0600
 tags: []
 banner_image: "/uploads/2020/12/27/kabo-1.jpg"
 files:
