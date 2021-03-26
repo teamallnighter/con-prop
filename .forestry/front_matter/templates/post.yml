@@ -65,6 +65,11 @@ fields:
   type: text
   hidden: true
   default: post
+- name: files
+  type: image_gallery
+  config: {}
+  label: Files
+  description: Upload Files
 pages:
 - _posts/2021-02-04-Template 2021.md
 - _posts/2021-02-09-manhattan-on-17th.md
