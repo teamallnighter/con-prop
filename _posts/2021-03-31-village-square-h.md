@@ -1,12 +1,12 @@
 ---
-number_of_units: 1
+number_of_units: 68
 management_level: Full
 layout: post
-buildingname: Template
-building_address: 'address '
-condo_corp: "1234"
-price: "$1234+GST"
-date: 2021-02-10T00:00:00.000-07:00
+buildingname: Village Square H
+building_address: 3235-56 Street NE, Calgary AB  T1Y 2X7
+condo_corp: "7611177"
+price: "$1800+GST"
+date: 2021-03-31 00:00:00 -0600
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
 files:
