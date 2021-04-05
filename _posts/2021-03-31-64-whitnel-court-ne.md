@@ -3,7 +3,7 @@ number_of_units: 38
 management_level: Full
 layout: post
 buildingname: Village Square - H
-building_address: '64 Whitnel Court NE, Calgary AB  '
+building_address: '64 Whitnel Court NE, Calgary AB. T1Y 5E3  '
 condo_corp: ''
 price: "$1000+GST"
 date: 2021-04-05 00:00:00 -0600
