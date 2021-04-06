@@ -6,7 +6,7 @@ buildingname: Whitehorn Village 1
 building_address: '64 Whitnel Court NE, Calgary AB. T1Y 5E3  '
 condo_corp: ''
 price: "$1000+GST"
-date: 2021-04-05 00:00:00 -0600
+date: 2021-04-06 00:00:00 -0600
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
 files:
