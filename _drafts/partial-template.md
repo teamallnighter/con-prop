@@ -1,15 +1,16 @@
 ---
-number_of_units: 32
+number_of_units: 
 management_level: Partial
 layout: post
-buildingname: Manhattan on 17th
-building_address: 1919 17th Ave SW, Calgary, T2T 0E9
-condo_corp: 881 0536
+buildingname: ''
+building_address: ''
+condo_corp: ''
 price: "$600+GST"
-date: 2021-02-11T00:00:00.000-07:00
+date: 2021-04-12 00:00:00 -0600
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
 title: 'Partial Template '
+files: []
 
 ---
 ### **Duties**
