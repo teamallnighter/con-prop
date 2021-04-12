@@ -1,9 +1,9 @@
 ---
-number_of_units: 
+number_of_units: 13
 management_level: Partial
 layout: post
-buildingname: ''
-building_address: ''
+buildingname: 2815 17 Street SW
+building_address: 2815 17 Street SW
 condo_corp: ''
 price: "$600+GST"
 date: 2021-04-12 00:00:00 -0600
