@@ -6,7 +6,7 @@ buildingname: North Railway Street
 building_address: 21 North Railway Street, Okotoks, AB T1S 1B6
 condo_corp: ''
 price: "$600+GST"
-date: 2021-05-14 00:00:00 -0600
+date: 2021-05-13 00:00:00 -0600
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
 title: North Railway Street Okotoks
