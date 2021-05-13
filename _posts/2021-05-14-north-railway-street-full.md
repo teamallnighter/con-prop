@@ -1,12 +1,12 @@
 ---
-number_of_units: 1
+number_of_units: 8
 management_level: Full
 layout: post
-buildingname: Template
-building_address: 'address '
-condo_corp: "1234"
-price: "$1234+GST"
-date: 2021-02-10T00:00:00.000-07:00
+buildingname: North Railway Street
+building_address: " 21 North Railway Street, Okotoks, AB T1S 1B6"
+condo_corp: ''
+price: "$1000+GST"
+date: 2021-05-14 00:00:00 -0600
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
 files:
