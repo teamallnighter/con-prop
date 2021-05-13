@@ -2,7 +2,7 @@
 number_of_units: 8
 management_level: Partial
 layout: post
-buildingname: 21 North Railway Street
+buildingname: North Railway Street
 building_address: 21 North Railway Street, Okotoks, AB T1S 1B6
 condo_corp: ''
 price: "$600+GST"
