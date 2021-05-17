@@ -1,12 +1,12 @@
 ---
-number_of_units: 
+number_of_units: 13
 management_level: Partial
 layout: post
-buildingname: ''
-building_address: ''
-condo_corp: ''
+buildingname: Puravida Condominium
+building_address: 2815, 17 Street SW, Calgary AB.
+condo_corp: "1612065"
 price: "$600+GST"
-date: 2021-04-12 00:00:00 -0600
+date: 2021-05-17 00:00:00 -0600
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
 title: Puravida Condominium Partial
