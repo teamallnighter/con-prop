@@ -10,6 +10,7 @@ date: 2021-06-22 00:00:00 -0600
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
 files:
+- "/uploads/2021/03/29/connelly-sample-management-agreement.pdf"
 - "/uploads/2021/03/14/2021-02-09-savanna-bazaar-condo-corporation.pdf"
 title: Holly Park
 
