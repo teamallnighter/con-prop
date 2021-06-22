@@ -4,7 +4,7 @@ management_level: Full
 layout: post
 buildingname: Holly Park
 building_address: 300 Meredith RD NE
-condo_corp: ''
+condo_corp: 791 0446
 price: "$2000+GST"
 date: 2021-06-22 00:00:00 -0600
 tags: []
