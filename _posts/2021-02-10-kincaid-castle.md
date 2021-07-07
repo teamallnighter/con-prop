@@ -2,7 +2,7 @@
 number_of_units: 1
 management_level: Full
 layout: post
-buildingname: Template
+buildingname: Kincaid Castle
 building_address: 'address '
 condo_corp: "1234"
 price: "$1234+GST"
