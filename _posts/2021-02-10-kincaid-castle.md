@@ -1,11 +1,11 @@
 ---
-number_of_units: 1
+number_of_units: 77
 management_level: Full
 layout: post
 buildingname: Kincaid Castle
 building_address: 'address '
 condo_corp: "1234"
-price: "$1234+GST"
+price: "$2000+GST"
 date: 2021-02-10T00:00:00.000-07:00
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
