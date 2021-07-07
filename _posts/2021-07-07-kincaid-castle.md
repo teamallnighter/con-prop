@@ -3,7 +3,7 @@ number_of_units: 77
 management_level: Full
 layout: post
 buildingname: Kincaid Castle
-building_address: 5340 17 Ave SW.
+building_address: 5340 17 Ave SW
 condo_corp: "7711099"
 price: "$2000+GST"
 date: 2021-07-07 00:00:00 -0600
