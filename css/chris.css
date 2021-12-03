@@ -1,0 +1,80 @@
+.building-info-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    background-color:#ffffffab;
+    padding: 25px;
+    min-width: 50vw;
+    left: 0;
+    height: 100vh;
+    text-align: center;
+}
+
+.pricing{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.price, .units, .pricing-text{
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+h1, h2, h3, .units, .pricing-text{
+    color: black !important;
+    text-align: center;
+}
+
+.price{
+    color: white;
+    background-color: #1b1b1b;
+    box-shadow: 1px 2px 4px grey;
+    padding: 10px;
+    text-align: center;
+}
+
+#banner{
+    height: 100vh;
+}
+
+
+.btn1 {
+        background: #3D94F6;
+        background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+        background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+        background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+        background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+        background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        border-radius: 20px;
+        height: 50px;
+        line-height: 50px;
+        color: #FFFFFF;
+        font-family: Verdana;
+        width: 200px;
+        font-size: 27px;
+        padding: 6px;
+        -webkit-box-shadow: 1px 1px 4px 0 #000000;
+        -moz-box-shadow: 1px 1px 4px 0 #000000;
+        box-shadow: 1px 1px 4px 0 #000000;
+        border: solid #337FED 1px;
+        text-decoration: none;
+        display: inline-block;
+        cursor: pointer;
+        text-align: center;
+     }
+     
+     .btn1:hover {
+        background: #FE9800;
+        border: solid #000000 1px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        border-radius: 20px;
+        text-decoration: none;
+     }

@@ -1,0 +1,68 @@
+---
+label: project
+hide_body: false
+fields:
+- name: banner_image
+  label: Banner Image
+  type: file
+  description: Dimensions work best at 1200 pixels by 400 pixels
+  hidden: false
+  default: ''
+- type: text
+  name: title
+  label: Building Name
+  description: Enter the buildings name
+- name: sub_heading
+  label: Sub Heading
+  type: text
+  hidden: false
+  default: ''
+- name: number_of_units
+  type: number
+  label: number of units
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: amenities_
+  type: tag_list
+  default: []
+  label: 'Amenities '
+- name: style_of_building
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Apartment
+    - Townhome
+    - Mixed
+    - Bareland
+    - Low Rise
+    - High Rise
+    - HOA
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: style of building
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: []
+- name: slug
+  label: Slug
+  type: text
+  hidden: false
+  default: ''
+pages:
+- _projects/bonavista-estates-2.md
+- _projects/country-estates-on-the-cove.md
+- _projects/grandview.md
+- _projects/lighthouse-landing.md
+- _projects/mansions-at-prominence.md

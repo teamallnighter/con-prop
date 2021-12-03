@@ -1,0 +1,75 @@
+---
+label: post
+hide_body: false
+display_field: buildingname
+fields:
+- name: buildingname
+  label: Building Name
+  type: text
+  hidden: false
+  default: ''
+- type: text
+  name: building_address
+  default: ''
+  label: Building Address
+- name: condo_corp
+  type: text
+  config:
+    required: false
+  label: condo corp
+- name: number_of_units
+  type: number
+  label: number of units
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: management_level
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Partial
+    - Full
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: management level
+- name: price
+  type: text
+  config:
+    required: false
+  label: price
+- name: date
+  label: Publish Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- type: file
+  name: banner_image
+  label: Banner Image
+  description: Ideal dimensions 2500px by 1200px
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: post
+pages:
+- _posts/2021-02-04-Template 2021.md
+- _posts/2021-02-09-manhattan-on-17th.md
+- _posts/2021-02-09-savanna-bazaar-condo-corporation.md
+- _posts/2021-02-09-summerfields-condo.md
+- _posts/2021-02-10-manhattan-on-17th-partial-management.md
+- _posts/2021-02-10-the-portico.md
+- _posts/2021-03-03-holly-meadows.md

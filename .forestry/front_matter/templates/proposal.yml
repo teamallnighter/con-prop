@@ -1,0 +1,53 @@
+---
+label: proposal
+hide_body: false
+fields:
+- name: building_name
+  type: text
+  config:
+    required: true
+  label: Building Name
+  description: Enter the buildings name
+- name: building_s_ocp
+  type: text
+  config:
+    required: true
+  label: Building's OCP
+  description: 'Enter the condo corp #'
+- name: address
+  type: text
+  config:
+    required: true
+  label: Address
+  description: enter the main address
+- name: units
+  type: number
+  label: Units
+  description: Enter the number of units
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+    required: true
+- name: price
+  type: number
+  label: Price
+  description: Enter the price
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+    required: true
+- name: proposal_date
+  type: datetime
+  label: Proposal Date
+  description: Enter the date you would like to see on the proposal
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
