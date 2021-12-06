@@ -1,12 +1,12 @@
 ---
-number_of_units: 1
-management_level: Full
+number_of_units: 6
+management_level: Partial
 layout: post
-buildingname: Template
-building_address: 'address '
-condo_corp: "1234"
-price: "$1234+GST"
-date: 2021-02-10T00:00:00.000-07:00
+buildingname: Huntington Park
+building_address: 103 Huntington Park Green
+condo_corp: '0812001'
+price: "$600+GST"
+date: 2021-12-06 07:00:00 +0000
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
 title: Huntington Park
