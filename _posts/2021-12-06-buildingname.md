@@ -8,7 +8,7 @@ condo_corp: "12345678"
 price: "$600+GST"
 date: 2021-12-06 07:00:00 +0000
 tags: []
-banner_image: ''
+banner_image: "/uploads/2020/12/27/daven-froberg-pqqqbdwg6n4-unsplash.jpg"
 
 ---
 #### **Partial Management**
