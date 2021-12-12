@@ -1,12 +1,12 @@
 ---
-number_of_units: 1
+number_of_units: 33
 management_level: Full
 layout: post
-buildingname: Template
-building_address: 'address '
-condo_corp: "1234"
-price: "$1234+GST"
-date: 2021-02-10T00:00:00.000-07:00
+buildingname: Somerset Condos
+building_address: 448 Strathcona Drive SW
+condo_corp: ''
+price: "$1000+GST"
+date: 2021-12-12 07:00:00 +0000
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
 title: Somerset Condos
