@@ -1,20 +1,15 @@
 ---
-number_of_units: 55
+number_of_units: 120
 management_level: Full
 layout: post
-buildingname: The Portico
-building_address: " 532 – 5 Ave NE, Calgary, T2E 0L2 and 716 – 5 St NE, Calgary AB,
-  T2E 3W8"
-condo_corp: '0511047'
-price: "$1500 + GST"
-date: 2021-02-23T00:00:00.000-07:00
+buildingname: Sierras of Richmond Hill
+building_address: 7239 Sierra Morena Blvd SW
+condo_corp: "9511939"
+price: "$1000+GST"
+date: 2022-01-12 07:00:00 +0000
 tags: []
 banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
-title: The Portico
-menu:
-  navigation:
-    weight: 4
-    title: Test
+title: Sierras of Richmond Hill - Full
 
 ---
 ### **Duties**

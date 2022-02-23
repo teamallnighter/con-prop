@@ -9,7 +9,7 @@ sub_heading: ''
 menu:
   navigation:
     identifier: _contact
-    weight: 4
+    weight: 3
 
 ---
 ## Hours of Operation

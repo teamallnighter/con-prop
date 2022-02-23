@@ -1,58 +1,46 @@
 ---
-number_of_units: 55
-management_level: Full
+number_of_units: 120
+management_level: Partial
 layout: post
-buildingname: The Portico
-building_address: " 532 – 5 Ave NE, Calgary, T2E 0L2 and 716 – 5 St NE, Calgary AB,
-  T2E 3W8"
-condo_corp: '0511047'
-price: "$1500 + GST"
-date: 2021-02-23T00:00:00.000-07:00
+buildingname: 'Sierras of Richmond Hill '
+building_address: 7239 Sierra Morena Blvd SW
+condo_corp: "9511939"
+price: "$600+GST"
+date: 2022-01-12 07:00:00 +0000
 tags: []
-banner_image: "/uploads/2020/12/26/photo-1526863336296-fac32d550655.webp"
-title: The Portico
-menu:
-  navigation:
-    weight: 4
-    title: Test
+banner_image: "/uploads/2020/12/27/daven-froberg-pqqqbdwg6n4-unsplash.jpg"
+title: Sierras of Richmond Hill - Partial
 
 ---
-### **Duties**
+#### **Partial Management**
 
-#### **Full Management**
+Collection of fees
 
-Assist with Board Duties (Section 37 – The Act)  
-Attendance at Board Meetings.  
-Minute taking and distribution  
-Minute Book Maintenance  
-Day-to-Day Owner Correspondence  
-AGM preparation, distribution and attendance (Section 30 – The Act) By-law interpretation & enforcement (Section 32 – The Act)  
-By-law Sanctions (Section 35 & 36 - The Act)  
-Prepare draft budget and resolution (Section 39 – The Act)  
-Assist with Reserve Fund (Section 38 – The Act)  
-Assist with Investments on board instruction (Section 43 – The Act) Provide Information on Request (fees are charged) (Section 44 & 74 – The Act) Provide Information to Mortgagee (Section 45 – The Act)  
-Response to owner complaints and suggestions  
-Owner, tenant and parking registers  
-Trade and Service Registers  
-Repair and Maintenance Register  
-Project Notices  
-Major printing/copying (at cost)  
-Maintenance of Corporation plans and records  
-Assist with newsletters  
-Emergency service phone number  
-Maintain Inspection Reports  
-Service quotes and contracts  
-Service quality control  
-Monthly financial statements with arrears list  
-Monthly year-to-date statement with budget comparison  
-Monthly trial balance, general ledger and balance sheet  
-Monthly fee collection and notices  
-Delinquent legal steps (Sections 39, 40, 41 and 42 – The Act) Arrange Insurance (Section 47 – The Act)  
-Provide Insurance Information (Section 48 – The Act)  
-Report Insurance Claims to Insurance Adjuster  
-Assist with Tenant Matters (Sections 53, 54, 55, 56 and 57 – The Act) Separate Bank Accounts  
-Issue Estoppel Certificates (a fee will be charged) per Section 44 – The Act Provide records for Annual Audit  
-Prepare Form 8 (The Act – Regulations)
+Connelly will open two separate bank accounts, one for operating another for reserve funds. They will not commingle these funds as per the Alberta Condominium Property Act
+
+Follow up on fees in arrears and administer caveats/foreclosures upon direction of the Board of Directors
+
+Invoice payments will be made twice a month on a regular basis. Payments will be made upon approval of invoice by a Director of the Board
+
+The Board may opt to have signing authority on cheques or not
+
+Banking and investment of Reserves upon direction of the Board
+
+Connelly will provide monthly financial statements to the Board
+
+Arrange Yearly Audit through the Corporation’s Auditor and preparation of Annual General Meeting
+
+Assist in Budgeting Process. The Board will obtain quotes and other required input for budget purposes, however Connelly will meet with the Board or a committee of the Board to review the budget and provide an independent assessment of the appropriateness of the Budget’s assumptions, the reasonableness of the amounts provided and that the Budget meets the legal requirements set out in Condominium Legislation and Bylaws
+
+Attend Annual General Meeting
+
+Connelly would be available to supply telephone support to the Board on any issue
+
+Connelly to provide access to 24-hour emergency call line
+
+Connelly will secure insurance coverage for the Corporation under Connelly’s master quoting process.
+
+Connelly will file legal documents i.e. Form 9, caveats, withdrawal of caveats, Small Claims if necessary and administer insurance needs as required
 
 ***
 
@@ -127,3 +115,5 @@ Issue Estoppel Certificates (a fee will be charged) per Section 44 – The Act
 #### **In conclusion:**
 
 Connelly & Company has forty years servicing Calgary’s condominiums. With that comes unmatched experience matched with modern technology we feel our approach will be a great match for your building.
+
+[Our Portfolio](https://connelly-proposal-portfolio.netlify.app/projects/) [Our Services](https://connelly-proposal-portfolio.netlify.app/about/)

@@ -1,8 +1,8 @@
 ---
 footer:
-- url: https://connellymanagement.com
-  weight: 4
-  title: Home Page
 - url: https://portal.connellymanagement.com
   weight: 3
   title: Customer Portal
+- url: https://connellymanagement.com
+  weight: 4
+  title: Home Page

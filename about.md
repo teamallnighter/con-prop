@@ -36,10 +36,10 @@ services:
     (403) 228-1557.
   icon: "/uploads/2021/01/13/575934-200.png"
 menu:
-  footer:
-    identifier: _about
-    weight: 2
   navigation:
+    identifier: _about
+    weight: 1
+  footer:
     identifier: _about
     weight: 2
 

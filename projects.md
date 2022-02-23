@@ -15,7 +15,7 @@ banner_image: "/uploads/2020/12/27/patrick-mcvey-rjc29ypmrk-unsplash.jpg"
 menu:
   navigation:
     identifier: _projects
-    weight: 3
+    weight: 2
     title: Portfolio
   footer:
     identifier: _projects
